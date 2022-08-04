@@ -1,0 +1,401 @@
+﻿fromCity,fromStateCode,fromState,toCity,toStateCode,toState,price,fromDate,toDate
+New York,NY,New York,Akron,OH,Ohio,2034,8/1/2022,8/5/2022
+Los Angeles,CA,California,Albany,NY,New York,726,8/1/2022,8/5/2022
+Chicago,IL,Illinois,Albuquerque,NM,New Mexico,612,8/1/2022,8/5/2022
+Miami,FL,Florida,Alexandria,VA,Virginia,2381,8/1/2022,8/5/2022
+Dallas,TX,Texas,Allentown,PA,Pennsylvania,1367,8/1/2022,8/5/2022
+Houston,TX,Texas,Amarillo,TX,Texas,1409,8/1/2022,8/5/2022
+Philadelphia,PA,Pennsylvania,Anaheim,CA,California,1631,8/1/2022,8/5/2022
+Atlanta,GA,Georgia,Anchorage,AK,Alaska,1733,8/1/2022,8/5/2022
+Washington,DC,District of Columbia,Ann Arbor,MI,Michigan,703,8/1/2022,8/5/2022
+Boston,MA,Massachusetts,Antioch,CA,California,2208,8/1/2022,8/5/2022
+Phoenix,AZ,Arizona,Appleton,WI,Wisconsin,1516,8/1/2022,8/5/2022
+Detroit,MI,Michigan,Arlington,TX,Texas,1725,8/1/2022,8/5/2022
+San Francisco,CA,California,Arlington,VA,Virginia,850,8/1/2022,8/5/2022
+Seattle,WA,Washington,Arvada,CO,Colorado,1024,8/1/2022,8/5/2022
+San Diego,CA,California,Asheville,NC,North Carolina,1066,8/1/2022,8/5/2022
+Minneapolis,MN,Minnesota,Athens,GA,Georgia,1834,8/1/2022,8/5/2022
+Tampa,FL,Florida,Atlanta,GA,Georgia,527,8/1/2022,8/5/2022
+Brooklyn,NY,New York,Atlantic City,NJ,New Jersey,618,8/1/2022,8/5/2022
+Denver,CO,Colorado,Augusta,GA,Georgia,939,8/1/2022,8/5/2022
+Queens,NY,New York,Aurora,CO,Colorado,1068,8/1/2022,8/5/2022
+Baltimore,MD,Maryland,Aurora,IL,Illinois,1387,8/1/2022,8/5/2022
+Las Vegas,NV,Nevada,Austin,TX,Texas,1284,8/1/2022,8/5/2022
+St. Louis,MO,Missouri,Avondale,AZ,Arizona,1797,8/1/2022,8/5/2022
+Riverside,CA,California,Bakersfield,CA,California,1451,8/1/2022,8/5/2022
+Portland,OR,Oregon,Baltimore,MD,Maryland,1560,8/1/2022,8/5/2022
+San Antonio,TX,Texas,Baton Rouge,LA,Louisiana,1599,8/1/2022,8/5/2022
+Sacramento,CA,California,Beaumont,TX,Texas,1191,8/1/2022,8/5/2022
+San Jose,CA,California,Bel Air South,MD,Maryland,1906,8/1/2022,8/5/2022
+Orlando,FL,Florida,Bellevue,WA,Washington,2494,8/1/2022,8/5/2022
+Cleveland,OH,Ohio,Bellingham,WA,Washington,890,8/1/2022,8/5/2022
+Pittsburgh,PA,Pennsylvania,Berkeley,CA,California,2024,8/1/2022,8/5/2022
+Manhattan,NY,New York,Billings,MT,Montana,1587,8/1/2022,8/5/2022
+Austin,TX,Texas,Binghamton,NY,New York,1889,8/1/2022,8/5/2022
+Cincinnati,OH,Ohio,Birmingham,AL,Alabama,1752,8/1/2022,8/5/2022
+Indianapolis,IN,Indiana,Bloomington,IL,Illinois,2312,8/1/2022,8/5/2022
+Kansas City,MO,Missouri,Bloomington,IN,Indiana,1105,8/1/2022,8/5/2022
+Columbus,OH,Ohio,Boise,ID,Idaho,1275,8/1/2022,8/5/2022
+Charlotte,NC,North Carolina,Bonita Springs,FL,Florida,2458,8/1/2022,8/5/2022
+Virginia Beach,VA,Virginia,Boston,MA,Massachusetts,1267,8/1/2022,8/5/2022
+Bronx,NY,New York,Boulder,CO,Colorado,656,8/1/2022,8/5/2022
+Milwaukee,WI,Wisconsin,Brandon,FL,Florida,2101,8/1/2022,8/5/2022
+Providence,RI,Rhode Island,Bremerton,WA,Washington,1386,8/1/2022,8/5/2022
+Jacksonville,FL,Florida,Bridgeport,CT,Connecticut,773,8/1/2022,8/5/2022
+Salt Lake City,UT,Utah,Bronx,NY,New York,1776,8/1/2022,8/5/2022
+Nashville,TN,Tennessee,Brooklyn,NY,New York,2149,8/1/2022,8/5/2022
+Raleigh,NC,North Carolina,Brownsville,TX,Texas,993,8/1/2022,8/5/2022
+Memphis,TN,Tennessee,Buffalo,NY,New York,1987,8/1/2022,8/5/2022
+Richmond,VA,Virginia,Burlington,NC,North Carolina,1222,8/1/2022,8/5/2022
+Louisville,KY,Kentucky,Burlington,VT,Vermont,1524,8/1/2022,8/5/2022
+New Orleans,LA,Louisiana,Cambridge,MA,Massachusetts,2400,8/1/2022,8/5/2022
+Bridgeport,CT,Connecticut,Canton,OH,Ohio,2181,8/1/2022,8/5/2022
+Oklahoma City,OK,Oklahoma,Cape Coral,FL,Florida,649,8/1/2022,8/5/2022
+Buffalo,NY,New York,Carlsbad,CA,California,2229,8/1/2022,8/5/2022
+Hartford,CT,Connecticut,Carrollton,TX,Texas,2014,8/1/2022,8/5/2022
+Fort Worth,TX,Texas,Cary,NC,North Carolina,728,8/1/2022,8/5/2022
+Tucson,AZ,Arizona,Cedar Rapids,IA,Iowa,674,8/1/2022,8/5/2022
+McAllen,TX,Texas,Champaign,IL,Illinois,970,8/1/2022,8/5/2022
+El Paso,TX,Texas,Chandler,AZ,Arizona,2439,8/1/2022,8/5/2022
+Omaha,NE,Nebraska,Charleston,SC,South Carolina,1076,8/1/2022,8/5/2022
+Albuquerque,NM,New Mexico,Charleston,WV,West Virginia,1901,8/1/2022,8/5/2022
+Birmingham,AL,Alabama,Charlotte,NC,North Carolina,631,8/1/2022,8/5/2022
+Sarasota,FL,Florida,Chattanooga,TN,Tennessee,1559,8/1/2022,8/5/2022
+Dayton,OH,Ohio,Chesapeake,VA,Virginia,1299,8/1/2022,8/5/2022
+Rochester,NY,New York,Chicago,IL,Illinois,1150,8/1/2022,8/5/2022
+Fresno,CA,California,Chico,CA,California,2363,8/1/2022,8/5/2022
+Tulsa,OK,Oklahoma,Chula Vista,CA,California,594,8/1/2022,8/5/2022
+Allentown,PA,Pennsylvania,Cincinnati,OH,Ohio,1464,8/1/2022,8/5/2022
+Concord,CA,California,Clarksville,TN,Tennessee,1130,8/1/2022,8/5/2022
+Cape Coral,FL,Florida,Clearwater,FL,Florida,2109,8/1/2022,8/5/2022
+Charleston,SC,South Carolina,Cleveland,OH,Ohio,2137,8/1/2022,8/5/2022
+Colorado Springs,CO,Colorado,Coeur d'Alene,ID,Idaho,1365,8/1/2022,8/5/2022
+Springfield,MA,Massachusetts,College Station,TX,Texas,2493,8/1/2022,8/5/2022
+Grand Rapids,MI,Michigan,Colorado Springs,CO,Colorado,2469,8/1/2022,8/5/2022
+Ogden,UT,Utah,Columbia,SC,South Carolina,1130,8/1/2022,8/5/2022
+Columbia,SC,South Carolina,Columbia,MO,Missouri,632,8/1/2022,8/5/2022
+Baton Rouge,LA,Louisiana,Columbus,OH,Ohio,1906,8/1/2022,8/5/2022
+Knoxville,TN,Tennessee,Columbus,GA,Georgia,1896,8/1/2022,8/5/2022
+Mission Viejo,CA,California,Concord,CA,California,1059,8/1/2022,8/5/2022
+Albany,NY,New York,Concord,NC,North Carolina,1951,8/1/2022,8/5/2022
+Akron,OH,Ohio,Coral Springs,FL,Florida,1500,8/1/2022,8/5/2022
+New Haven,CT,Connecticut,Corona,CA,California,1463,8/1/2022,8/5/2022
+Provo,UT,Utah,Corpus Christi,TX,Texas,845,8/1/2022,8/5/2022
+Bakersfield,CA,California,Costa Mesa,CA,California,1885,8/1/2022,8/5/2022
+Murrieta,CA,California,Dallas,TX,Texas,654,8/1/2022,8/5/2022
+Des Moines,IA,Iowa,Danbury,CT,Connecticut,2141,8/1/2022,8/5/2022
+Worcester,MA,Massachusetts,Davenport,IA,Iowa,1178,8/1/2022,8/5/2022
+Mesa,AZ,Arizona,Dayton,OH,Ohio,1242,8/1/2022,8/5/2022
+Toledo,OH,Ohio,Deltona,FL,Florida,1220,8/1/2022,8/5/2022
+Palm Bay,FL,Florida,Denton,TX,Texas,1809,8/1/2022,8/5/2022
+Staten Island,NY,New York,Denver,CO,Colorado,1556,8/1/2022,8/5/2022
+Wichita,KS,Kansas,Des Moines,IA,Iowa,1264,8/1/2022,8/5/2022
+Harrisburg,PA,Pennsylvania,Detroit,MI,Michigan,1622,8/1/2022,8/5/2022
+Long Beach,CA,California,Dover,DE,Delaware,800,8/1/2022,8/5/2022
+Little Rock,AR,Arkansas,Duluth,MN,Minnesota,1714,8/1/2022,8/5/2022
+Madison,WI,Wisconsin,Durham,NC,North Carolina,1125,8/1/2022,8/5/2022
+Greenville,SC,South Carolina,East Los Angeles,CA,California,633,8/1/2022,8/5/2022
+Reno,NV,Nevada,El Monte,CA,California,1441,8/1/2022,8/5/2022
+Port St. Lucie,FL,Florida,El Paso,TX,Texas,2324,8/1/2022,8/5/2022
+Lancaster,PA,Pennsylvania,Elizabeth,NJ,New Jersey,597,8/1/2022,8/5/2022
+Spokane,WA,Washington,Elk Grove,CA,California,1467,8/1/2022,8/5/2022
+Denton,TX,Texas,Elkhart,IN,Indiana,1009,8/1/2022,8/5/2022
+Poughkeepsie,NY,New York,Enterprise,NV,Nevada,1350,8/1/2022,8/5/2022
+Oakland,CA,California,Erie,PA,Pennsylvania,954,8/1/2022,8/5/2022
+Winston-Salem,NC,North Carolina,Escondido,CA,California,1099,8/1/2022,8/5/2022
+Syracuse,NY,New York,Eugene,OR,Oregon,2219,8/1/2022,8/5/2022
+Boise,ID,Idaho,Evansville,IN,Indiana,626,8/1/2022,8/5/2022
+Chattanooga,TN,Tennessee,Fairfield,CA,California,2484,8/1/2022,8/5/2022
+Augusta,GA,Georgia,Fargo,ND,North Dakota,2158,8/1/2022,8/5/2022
+Arlington,TX,Texas,Fayetteville,AR,Arkansas,978,8/1/2022,8/5/2022
+Stockton,CA,California,Fayetteville,NC,North Carolina,1752,8/1/2022,8/5/2022
+Durham,NC,North Carolina,Flint,MI,Michigan,540,8/1/2022,8/5/2022
+Palm Coast,FL,Florida,Fontana,CA,California,851,8/1/2022,8/5/2022
+Scranton,PA,Pennsylvania,Fort Collins,CO,Colorado,667,8/1/2022,8/5/2022
+Aurora,CO,Colorado,Fort Lauderdale,FL,Florida,2132,8/1/2022,8/5/2022
+Oxnard,CA,California,Fort Smith,AR,Arkansas,1228,8/1/2022,8/5/2022
+Modesto,CA,California,Fort Wayne,IN,Indiana,1273,8/1/2022,8/5/2022
+Indio,CA,California,Fort Worth,TX,Texas,818,8/1/2022,8/5/2022
+Kissimmee,FL,Florida,Frederick,MD,Maryland,977,8/1/2022,8/5/2022
+Youngstown,OH,Ohio,Fredericksburg,VA,Virginia,2491,8/1/2022,8/5/2022
+Pensacola,FL,Florida,Fremont,CA,California,2040,8/1/2022,8/5/2022
+Lancaster,CA,California,Fresno,CA,California,1339,8/1/2022,8/5/2022
+Anaheim,CA,California,Frisco,TX,Texas,663,8/1/2022,8/5/2022
+Fayetteville,AR,Arkansas,Fullerton,CA,California,858,8/1/2022,8/5/2022
+Jackson,MS,Mississippi,Gainesville,FL,Florida,2477,8/1/2022,8/5/2022
+Victorville,CA,California,Gainesville,GA,Georgia,1184,8/1/2022,8/5/2022
+Bonita Springs,FL,Florida,Garden Grove,CA,California,1494,8/1/2022,8/5/2022
+Greensboro,NC,North Carolina,Garland,TX,Texas,833,8/1/2022,8/5/2022
+Corpus Christi,TX,Texas,Gastonia,NC,North Carolina,787,8/1/2022,8/5/2022
+Flint,MI,Michigan,Gilbert,AZ,Arizona,1062,8/1/2022,8/5/2022
+Fayetteville,NC,North Carolina,Gilroy,CA,California,1498,8/1/2022,8/5/2022
+Santa Ana,CA,California,Glendale,AZ,Arizona,1413,8/1/2022,8/5/2022
+Fort Wayne,IN,Indiana,Glendale,CA,California,2048,8/1/2022,8/5/2022
+Mobile,AL,Alabama,Grand Junction,CO,Colorado,2057,8/1/2022,8/5/2022
+Lansing,MI,Michigan,Grand Prairie,TX,Texas,1830,8/1/2022,8/5/2022
+Ann Arbor,MI,Michigan,Grand Rapids,MI,Michigan,1438,8/1/2022,8/5/2022
+Huntsville,AL,Alabama,Greeley,CO,Colorado,769,8/1/2022,8/5/2022
+Lexington,KY,Kentucky,Green Bay,WI,Wisconsin,2296,8/1/2022,8/5/2022
+Santa Rosa,CA,California,Greensboro,NC,North Carolina,1325,8/1/2022,8/5/2022
+Antioch,CA,California,Greenville,SC,South Carolina,1419,8/1/2022,8/5/2022
+Asheville,NC,North Carolina,Greenville,NC,North Carolina,2416,8/1/2022,8/5/2022
+Henderson,NV,Nevada,Gulfport,MS,Mississippi,1098,8/1/2022,8/5/2022
+St. Paul,MN,Minnesota,Hagerstown,MD,Maryland,626,8/1/2022,8/5/2022
+Fort Collins,CO,Colorado,Hampton,VA,Virginia,991,8/1/2022,8/5/2022
+Lakeland,FL,Florida,Harlingen,TX,Texas,1230,8/1/2022,8/5/2022
+Springfield,MO,Missouri,Harrisburg,PA,Pennsylvania,1802,8/1/2022,8/5/2022
+The Woodlands,TX,Texas,Hartford,CT,Connecticut,743,8/1/2022,8/5/2022
+Shreveport,LA,Louisiana,Hayward,CA,California,1122,8/1/2022,8/5/2022
+Trenton,NJ,New Jersey,Hemet,CA,California,571,8/1/2022,8/5/2022
+Plano,TX,Texas,Henderson,NV,Nevada,2369,8/1/2022,8/5/2022
+Round Lake Beach,IL,Illinois,Hialeah,FL,Florida,1537,8/1/2022,8/5/2022
+South Bend,IN,Indiana,Hickory,NC,North Carolina,698,8/1/2022,8/5/2022
+Savannah,GA,Georgia,High Point,NC,North Carolina,1899,8/1/2022,8/5/2022
+Newark,NJ,New Jersey,Hollywood,FL,Florida,768,8/1/2022,8/5/2022
+Davenport,IA,Iowa,Houma,LA,Louisiana,828,8/1/2022,8/5/2022
+Myrtle Beach,SC,South Carolina,Houston,TX,Texas,2310,8/1/2022,8/5/2022
+Lincoln,NE,Nebraska,Huntington,WV,West Virginia,1859,8/1/2022,8/5/2022
+Rockford,IL,Illinois,Huntington Beach,CA,California,702,8/1/2022,8/5/2022
+Reading,PA,Pennsylvania,Huntsville,AL,Alabama,2435,8/1/2022,8/5/2022
+Canton,OH,Ohio,Independence,MO,Missouri,1843,8/1/2022,8/5/2022
+Irvine,CA,California,Indianapolis,IN,Indiana,2071,8/1/2022,8/5/2022
+Eugene,OR,Oregon,Indio,CA,California,1732,8/1/2022,8/5/2022
+Chula Vista,CA,California,Iowa City,IA,Iowa,1306,8/1/2022,8/5/2022
+St. Petersburg,FL,Florida,Irvine,CA,California,789,8/1/2022,8/5/2022
+Salem,OR,Oregon,Irving,TX,Texas,2436,8/1/2022,8/5/2022
+Lafayette,LA,Louisiana,Jackson,MS,Mississippi,1907,8/1/2022,8/5/2022
+Laredo,TX,Texas,Jacksonville,FL,Florida,1290,8/1/2022,8/5/2022
+Jersey City,NJ,New Jersey,Jersey City,NJ,New Jersey,981,8/1/2022,8/5/2022
+Santa Clarita,CA,California,Johnson City,TN,Tennessee,2293,8/1/2022,8/5/2022
+Wilmington,NC,North Carolina,Joliet,IL,Illinois,2440,8/1/2022,8/5/2022
+Lubbock,TX,Texas,Kalamazoo,MI,Michigan,980,8/1/2022,8/5/2022
+Chandler,AZ,Arizona,Kansas City,MO,Missouri,608,8/1/2022,8/5/2022
+Scottsdale,AZ,Arizona,Kansas City,KS,Kansas,844,8/1/2022,8/5/2022
+Tallahassee,FL,Florida,Kennewick,WA,Washington,705,8/1/2022,8/5/2022
+Montgomery,AL,Alabama,Kenosha,WI,Wisconsin,803,8/1/2022,8/5/2022
+Peoria,IL,Illinois,Kent,WA,Washington,2433,8/1/2022,8/5/2022
+Glendale,AZ,Arizona,Killeen,TX,Texas,1409,8/1/2022,8/5/2022
+Columbus,GA,Georgia,Kissimmee,FL,Florida,951,8/1/2022,8/5/2022
+Anchorage,AK,Alaska,Knoxville,TN,Tennessee,1723,8/1/2022,8/5/2022
+Gilbert,AZ,Arizona,Lafayette,LA,Louisiana,2122,8/1/2022,8/5/2022
+North Las Vegas,NV,Nevada,Lafayette,IN,Indiana,1315,8/1/2022,8/5/2022
+Avondale,AZ,Arizona,Lake Charles,LA,Louisiana,1295,8/1/2022,8/5/2022
+McKinney,TX,Texas,Lakeland,FL,Florida,1955,8/1/2022,8/5/2022
+Norfolk,VA,Virginia,Lakewood,CO,Colorado,1023,8/1/2022,8/5/2022
+Chesapeake,VA,Virginia,Lancaster,PA,Pennsylvania,1278,8/1/2022,8/5/2022
+Kennewick,WA,Washington,Lancaster,CA,California,2354,8/1/2022,8/5/2022
+Winter Haven,FL,Florida,Lansing,MI,Michigan,2427,8/1/2022,8/5/2022
+Irving,TX,Texas,Laredo,TX,Texas,1951,8/1/2022,8/5/2022
+Garland,TX,Texas,Las Cruces,NM,New Mexico,1204,8/1/2022,8/5/2022
+York,PA,Pennsylvania,Las Vegas,NV,Nevada,1856,8/1/2022,8/5/2022
+Concord,NC,North Carolina,Leesburg,FL,Florida,2485,8/1/2022,8/5/2022
+Arlington,VA,Virginia,Lehigh Acres,FL,Florida,936,8/1/2022,8/5/2022
+Atlantic City,NJ,New Jersey,Leominster,MA,Massachusetts,1854,8/1/2022,8/5/2022
+Visalia,CA,California,Lexington,KY,Kentucky,824,8/1/2022,8/5/2022
+Fremont,CA,California,Lincoln,NE,Nebraska,910,8/1/2022,8/5/2022
+Hialeah,FL,Florida,Little Rock,AR,Arkansas,1041,8/1/2022,8/5/2022
+Nashua,NH,New Hampshire,Long Beach,CA,California,648,8/1/2022,8/5/2022
+Killeen,TX,Texas,Lorain,OH,Ohio,1277,8/1/2022,8/5/2022
+Gulfport,MS,Mississippi,Los Angeles,CA,California,1820,8/1/2022,8/5/2022
+Brownsville,TX,Texas,Louisville,KY,Kentucky,1921,8/1/2022,8/5/2022
+Evansville,IN,Indiana,Lubbock,TX,Texas,1982,8/1/2022,8/5/2022
+Appleton,WI,Wisconsin,Lynchburg,VA,Virginia,1798,8/1/2022,8/5/2022
+Navarre,FL,Florida,Macon,GA,Georgia,1397,8/1/2022,8/5/2022
+Bel Air South,MD,Maryland,Madison,WI,Wisconsin,730,8/1/2022,8/5/2022
+Kalamazoo,MI,Michigan,Manchester,NH,New Hampshire,1877,8/1/2022,8/5/2022
+Bremerton,WA,Washington,Manhattan,NY,New York,1518,8/1/2022,8/5/2022
+Spring Valley,NV,Nevada,Marysville,WA,Washington,2457,8/1/2022,8/5/2022
+San Bernardino,CA,California,Mauldin,SC,South Carolina,1242,8/1/2022,8/5/2022
+Roanoke,VA,Virginia,McAllen,TX,Texas,1816,8/1/2022,8/5/2022
+Spartanburg,SC,South Carolina,McKinney,TX,Texas,2333,8/1/2022,8/5/2022
+Tacoma,WA,Washington,Medford,OR,Oregon,506,8/1/2022,8/5/2022
+Enterprise,NV,Nevada,Memphis,TN,Tennessee,1118,8/1/2022,8/5/2022
+Green Bay,WI,Wisconsin,Merced,CA,California,2171,8/1/2022,8/5/2022
+Portland,ME,Maine,Mesa,AZ,Arizona,556,8/1/2022,8/5/2022
+Thousand Oaks,CA,California,Mesquite,TX,Texas,2144,8/1/2022,8/5/2022
+Fontana,CA,California,Metairie,LA,Louisiana,1689,8/1/2022,8/5/2022
+Hickory,NC,North Carolina,Miami,FL,Florida,1222,8/1/2022,8/5/2022
+Moreno Valley,CA,California,Midland,TX,Texas,548,8/1/2022,8/5/2022
+Deltona,FL,Florida,Milwaukee,WI,Wisconsin,1893,8/1/2022,8/5/2022
+Fargo,ND,North Dakota,Minneapolis,MN,Minnesota,2109,8/1/2022,8/5/2022
+Santa Barbara,CA,California,Miramar,FL,Florida,2214,8/1/2022,8/5/2022
+College Station,TX,Texas,Mission Viejo,CA,California,2357,8/1/2022,8/5/2022
+Gainesville,FL,Florida,Mobile,AL,Alabama,509,8/1/2022,8/5/2022
+Amarillo,TX,Texas,Modesto,CA,California,2335,8/1/2022,8/5/2022
+Norwich,CT,Connecticut,Monroe,LA,Louisiana,1064,8/1/2022,8/5/2022
+Olympia,WA,Washington,Montgomery,AL,Alabama,2281,8/1/2022,8/5/2022
+Yonkers,NY,New York,Moreno Valley,CA,California,1532,8/1/2022,8/5/2022
+Huntington Beach,CA,California,Murfreesboro,TN,Tennessee,836,8/1/2022,8/5/2022
+Glendale,CA,California,Murrieta,CA,California,871,8/1/2022,8/5/2022
+Aurora,IL,Illinois,Muskegon,MI,Michigan,1809,8/1/2022,8/5/2022
+Huntington,WV,West Virginia,Myrtle Beach,SC,South Carolina,782,8/1/2022,8/5/2022
+Sunrise Manor,NV,Nevada,Nampa,ID,Idaho,2329,8/1/2022,8/5/2022
+North Port,FL,Florida,Naperville,IL,Illinois,1205,8/1/2022,8/5/2022
+Hagerstown,MD,Maryland,Nashua,NH,New Hampshire,1670,8/1/2022,8/5/2022
+Grand Prairie,TX,Texas,Nashville,TN,Tennessee,1257,8/1/2022,8/5/2022
+Overland Park,KS,Kansas,Navarre,FL,Florida,727,8/1/2022,8/5/2022
+Paradise,NV,Nevada,New Bedford,MA,Massachusetts,617,8/1/2022,8/5/2022
+Tempe,AZ,Arizona,New Haven,CT,Connecticut,1541,8/1/2022,8/5/2022
+Salinas,CA,California,New Orleans,LA,Louisiana,1156,8/1/2022,8/5/2022
+Erie,PA,Pennsylvania,New York,NY,New York,1357,8/1/2022,8/5/2022
+Cedar Rapids,IA,Iowa,Newark,NJ,New Jersey,2145,8/1/2022,8/5/2022
+Waterbury,CT,Connecticut,Newport News,VA,Virginia,2087,8/1/2022,8/5/2022
+Frisco,TX,Texas,Norfolk,VA,Virginia,2083,8/1/2022,8/5/2022
+Waco,TX,Texas,North Charleston,SC,South Carolina,2471,8/1/2022,8/5/2022
+Gastonia,NC,North Carolina,North Las Vegas,NV,Nevada,900,8/1/2022,8/5/2022
+Clarksville,TN,Tennessee,North Port,FL,Florida,681,8/1/2022,8/5/2022
+Vancouver,WA,Washington,Norwich,CT,Connecticut,747,8/1/2022,8/5/2022
+Lorain,OH,Ohio,Oakland,CA,California,1512,8/1/2022,8/5/2022
+Nampa,ID,Idaho,Ocala,FL,Florida,2037,8/1/2022,8/5/2022
+Fort Lauderdale,FL,Florida,Oceanside,CA,California,511,8/1/2022,8/5/2022
+Hemet,CA,California,Odessa,TX,Texas,2342,8/1/2022,8/5/2022
+Newport News,VA,Virginia,Ogden,UT,Utah,2025,8/1/2022,8/5/2022
+Ontario,CA,California,Oklahoma City,OK,Oklahoma,739,8/1/2022,8/5/2022
+Rancho Cucamonga,CA,California,Olathe,KS,Kansas,1608,8/1/2022,8/5/2022
+Vallejo,CA,California,Olympia,WA,Washington,2174,8/1/2022,8/5/2022
+Oceanside,CA,California,Omaha,NE,Nebraska,2060,8/1/2022,8/5/2022
+Vero Beach South,FL,Florida,Ontario,CA,California,1173,8/1/2022,8/5/2022
+Ocala,FL,Florida,Orange,CA,California,700,8/1/2022,8/5/2022
+Sioux Falls,SD,South Dakota,Orlando,FL,Florida,1826,8/1/2022,8/5/2022
+Danbury,CT,Connecticut,Overland Park,KS,Kansas,2026,8/1/2022,8/5/2022
+Elk Grove,CA,California,Oxnard,CA,California,885,8/1/2022,8/5/2022
+High Point,NC,North Carolina,Palm Bay,FL,Florida,1239,8/1/2022,8/5/2022
+Garden Grove,CA,California,Palm Coast,FL,Florida,1919,8/1/2022,8/5/2022
+Peoria,AZ,Arizona,Palmdale,CA,California,2114,8/1/2022,8/5/2022
+Pembroke Pines,FL,Florida,Panama City,FL,Florida,2434,8/1/2022,8/5/2022
+Medford,OR,Oregon,Paradise,NV,Nevada,1968,8/1/2022,8/5/2022
+Murfreesboro,TN,Tennessee,Pasadena,TX,Texas,1213,8/1/2022,8/5/2022
+Cary,NC,North Carolina,Pasadena,CA,California,1026,8/1/2022,8/5/2022
+Lafayette,IN,Indiana,Paterson,NJ,New Jersey,2090,8/1/2022,8/5/2022
+Corona,CA,California,Pearland,TX,Texas,1365,8/1/2022,8/5/2022
+Santa Cruz,CA,California,Pembroke Pines,FL,Florida,2066,8/1/2022,8/5/2022
+Spring Hill,FL,Florida,Pensacola,FL,Florida,1959,8/1/2022,8/5/2022
+Muskegon,MI,Michigan,Peoria,IL,Illinois,749,8/1/2022,8/5/2022
+Manchester,NH,New Hampshire,Peoria,AZ,Arizona,2488,8/1/2022,8/5/2022
+Marysville,WA,Washington,Philadelphia,PA,Pennsylvania,929,8/1/2022,8/5/2022
+Springfield,IL,Illinois,Phoenix,AZ,Arizona,2185,8/1/2022,8/5/2022
+Frederick,MD,Maryland,Pittsburgh,PA,Pennsylvania,1263,8/1/2022,8/5/2022
+Hayward,CA,California,Plano,TX,Texas,1161,8/1/2022,8/5/2022
+Alexandria,VA,Virginia,Pomona,CA,California,1005,8/1/2022,8/5/2022
+Port Arthur,TX,Texas,Port Arthur,TX,Texas,1944,8/1/2022,8/5/2022
+Lakewood,CO,Colorado,Port St. Lucie,FL,Florida,1081,8/1/2022,8/5/2022
+Fredericksburg,VA,Virginia,Portland,OR,Oregon,1002,8/1/2022,8/5/2022
+Leesburg,FL,Florida,Portland,ME,Maine,1458,8/1/2022,8/5/2022
+Hollywood,FL,Florida,Pottstown,PA,Pennsylvania,837,8/1/2022,8/5/2022
+Palmdale,CA,California,Poughkeepsie,NY,New York,1238,8/1/2022,8/5/2022
+Macon,GA,Georgia,Providence,RI,Rhode Island,1970,8/1/2022,8/5/2022
+Kansas City,KS,Kansas,Provo,UT,Utah,665,8/1/2022,8/5/2022
+Champaign,IL,Illinois,Pueblo,CO,Colorado,2274,8/1/2022,8/5/2022
+Sunnyvale,CA,California,Queens,NY,New York,2395,8/1/2022,8/5/2022
+Pasadena,TX,Texas,Racine,WI,Wisconsin,1600,8/1/2022,8/5/2022
+Pomona,CA,California,Raleigh,NC,North Carolina,1365,8/1/2022,8/5/2022
+Escondido,CA,California,Rancho Cucamonga,CA,California,1947,8/1/2022,8/5/2022
+Mauldin,SC,South Carolina,Reading,PA,Pennsylvania,1686,8/1/2022,8/5/2022
+New Bedford,MA,Massachusetts,Redding,CA,California,1450,8/1/2022,8/5/2022
+Panama City,FL,Florida,Reno,NV,Nevada,2471,8/1/2022,8/5/2022
+Tuscaloosa,AL,Alabama,Richardson,TX,Texas,950,8/1/2022,8/5/2022
+Warner Robins,GA,Georgia,Richmond,VA,Virginia,2440,8/1/2022,8/5/2022
+Naperville,IL,Illinois,Riverside,CA,California,1445,8/1/2022,8/5/2022
+Merced,CA,California,Roanoke,VA,Virginia,1672,8/1/2022,8/5/2022
+Elkhart,IN,Indiana,Rochester,NY,New York,559,8/1/2022,8/5/2022
+Joliet,IL,Illinois,Rochester,MN,Minnesota,2166,8/1/2022,8/5/2022
+Binghamton,NY,New York,Rock Hill,SC,South Carolina,2475,8/1/2022,8/5/2022
+Houma,LA,Louisiana,Rockford,IL,Illinois,1542,8/1/2022,8/5/2022
+Bellevue,WA,Washington,Roseville,CA,California,1557,8/1/2022,8/5/2022
+Topeka,KS,Kansas,Round Lake Beach,IL,Illinois,877,8/1/2022,8/5/2022
+Paterson,NJ,New Jersey,Round Rock,TX,Texas,607,8/1/2022,8/5/2022
+Lake Charles,LA,Louisiana,Sacramento,CA,California,1607,8/1/2022,8/5/2022
+Torrance,CA,California,Saginaw,MI,Michigan,716,8/1/2022,8/5/2022
+Thornton,CO,Colorado,Salem,OR,Oregon,2090,8/1/2022,8/5/2022
+Tyler,TX,Texas,Salinas,CA,California,1596,8/1/2022,8/5/2022
+Athens,GA,Georgia,Salt Lake City,UT,Utah,1805,8/1/2022,8/5/2022
+Beaumont,TX,Texas,San Antonio,TX,Texas,595,8/1/2022,8/5/2022
+Pueblo,CO,Colorado,San Bernardino,CA,California,760,8/1/2022,8/5/2022
+Odessa,TX,Texas,San Diego,CA,California,1278,8/1/2022,8/5/2022
+Mesquite,TX,Texas,San Francisco,CA,California,2438,8/1/2022,8/5/2022
+Fairfield,CA,California,San Jose,CA,California,2179,8/1/2022,8/5/2022
+Pasadena,CA,California,Santa Ana,CA,California,1459,8/1/2022,8/5/2022
+Charleston,WV,West Virginia,Santa Barbara,CA,California,1772,8/1/2022,8/5/2022
+Fullerton,CA,California,Santa Clara,CA,California,2332,8/1/2022,8/5/2022
+Miramar,FL,Florida,Santa Clarita,CA,California,2000,8/1/2022,8/5/2022
+Midland,TX,Texas,Santa Cruz,CA,California,2051,8/1/2022,8/5/2022
+Gainesville,GA,Georgia,Santa Maria,CA,California,1310,8/1/2022,8/5/2022
+Orange,CA,California,Santa Rosa,CA,California,2500,8/1/2022,8/5/2022
+Olathe,KS,Kansas,Sarasota,FL,Florida,2219,8/1/2022,8/5/2022
+Santa Maria,CA,California,Savannah,GA,Georgia,2184,8/1/2022,8/5/2022
+Surprise,AZ,Arizona,Scottsdale,AZ,Arizona,1920,8/1/2022,8/5/2022
+Roseville,CA,California,Scranton,PA,Pennsylvania,1271,8/1/2022,8/5/2022
+Metairie,LA,Louisiana,Seaside,CA,California,2383,8/1/2022,8/5/2022
+Yuma,AZ,Arizona,Seattle,WA,Washington,982,8/1/2022,8/5/2022
+Carrollton,TX,Texas,Shreveport,LA,Louisiana,2295,8/1/2022,8/5/2022
+Burlington,NC,North Carolina,Simi Valley,CA,California,799,8/1/2022,8/5/2022
+West Valley City,UT,Utah,Sioux Falls,SD,South Dakota,846,8/1/2022,8/5/2022
+Hampton,VA,Virginia,South Bend,IN,Indiana,537,8/1/2022,8/5/2022
+Racine,WI,Wisconsin,South Lyon,MI,Michigan,1931,8/1/2022,8/5/2022
+Greeley,CO,Colorado,Spartanburg,SC,South Carolina,2297,8/1/2022,8/5/2022
+Harlingen,TX,Texas,Spokane,WA,Washington,1780,8/1/2022,8/5/2022
+Warren,MI,Michigan,Spring Hill,FL,Florida,2015,8/1/2022,8/5/2022
+Grand Junction,CO,Colorado,Spring Valley,NV,Nevada,1387,8/1/2022,8/5/2022
+Coral Springs,FL,Florida,Springfield,MA,Massachusetts,874,8/1/2022,8/5/2022
+Columbia,MO,Missouri,Springfield,MO,Missouri,1566,8/1/2022,8/5/2022
+Bloomington,IL,Illinois,Springfield,IL,Illinois,1137,8/1/2022,8/5/2022
+Sterling Heights,MI,Michigan,St. Cloud,MN,Minnesota,1870,8/1/2022,8/5/2022
+Stamford,CT,Connecticut,St. George,UT,Utah,2208,8/1/2022,8/5/2022
+Kent,WA,Washington,St. Louis,MO,Missouri,1583,8/1/2022,8/5/2022
+Bellingham,WA,Washington,St. Paul,MN,Minnesota,1712,8/1/2022,8/5/2022
+Las Cruces,NM,New Mexico,St. Petersburg,FL,Florida,1531,8/1/2022,8/5/2022
+Greenville,NC,North Carolina,Stamford,CT,Connecticut,2347,8/1/2022,8/5/2022
+Round Rock,TX,Texas,Staten Island,NY,New York,1938,8/1/2022,8/5/2022
+Elizabeth,NJ,New Jersey,Sterling Heights,MI,Michigan,2141,8/1/2022,8/5/2022
+South Lyon,MI,Michigan,Stockton,CA,California,1040,8/1/2022,8/5/2022
+Simi Valley,CA,California,Sugar Land,TX,Texas,533,8/1/2022,8/5/2022
+Santa Clara,CA,California,Sunnyvale,CA,California,1439,8/1/2022,8/5/2022
+Yakima,WA,Washington,Sunrise Manor,NV,Nevada,752,8/1/2022,8/5/2022
+Johnson City,TN,Tennessee,Surprise,AZ,Arizona,707,8/1/2022,8/5/2022
+Dover,DE,Delaware,Syracuse,NY,New York,1937,8/1/2022,8/5/2022
+Pearland,TX,Texas,Tacoma,WA,Washington,2458,8/1/2022,8/5/2022
+Lynchburg,VA,Virginia,Tallahassee,FL,Florida,1868,8/1/2022,8/5/2022
+Fort Smith,AR,Arkansas,Tampa,FL,Florida,890,8/1/2022,8/5/2022
+Yuba City,CA,California,Temecula,CA,California,832,8/1/2022,8/5/2022
+Lehigh Acres,FL,Florida,Tempe,AZ,Arizona,2123,8/1/2022,8/5/2022
+Kenosha,WI,Wisconsin,Texas City,TX,Texas,726,8/1/2022,8/5/2022
+Berkeley,CA,California,The Villages,FL,Florida,2096,8/1/2022,8/5/2022
+Boulder,CO,Colorado,The Woodlands,TX,Texas,659,8/1/2022,8/5/2022
+Texas City,TX,Texas,Thornton,CO,Colorado,2459,8/1/2022,8/5/2022
+Iowa City,IA,Iowa,Thousand Oaks,CA,California,1665,8/1/2022,8/5/2022
+Waldorf,MD,Maryland,Toledo,OH,Ohio,1957,8/1/2022,8/5/2022
+East Los Angeles,CA,California,Topeka,KS,Kansas,1954,8/1/2022,8/5/2022
+Redding,CA,California,Torrance,CA,California,827,8/1/2022,8/5/2022
+Arvada,CO,Colorado,Trenton,NJ,New Jersey,944,8/1/2022,8/5/2022
+The Villages,FL,Florida,Tucson,AZ,Arizona,2129,8/1/2022,8/5/2022
+Saginaw,MI,Michigan,Tulsa,OK,Oklahoma,941,8/1/2022,8/5/2022
+Richardson,TX,Texas,Tuscaloosa,AL,Alabama,1176,8/1/2022,8/5/2022
+Sugar Land,TX,Texas,Tyler,TX,Texas,537,8/1/2022,8/5/2022
+Leominster,MA,Massachusetts,Utica,NY,New York,1794,8/1/2022,8/5/2022
+St. Cloud,MN,Minnesota,Vallejo,CA,California,1726,8/1/2022,8/5/2022
+Duluth,MN,Minnesota,Vancouver,WA,Washington,1164,8/1/2022,8/5/2022
+Cambridge,MA,Massachusetts,Vero Beach South,FL,Florida,1592,8/1/2022,8/5/2022
+Monroe,LA,Louisiana,Victorville,CA,California,1409,8/1/2022,8/5/2022
+Independence,MO,Missouri,Virginia Beach,VA,Virginia,2477,8/1/2022,8/5/2022
+Rochester,MN,Minnesota,Visalia,CA,California,1909,8/1/2022,8/5/2022
+Rock Hill,SC,South Carolina,Waco,TX,Texas,1794,8/1/2022,8/5/2022
+Bloomington,IN,Indiana,Waldorf,MD,Maryland,1297,8/1/2022,8/5/2022
+Billings,MT,Montana,Warner Robins,GA,Georgia,924,8/1/2022,8/5/2022
+Seaside,CA,California,Warren,MI,Michigan,1921,8/1/2022,8/5/2022
+Clearwater,FL,Florida,Washington,DC,District of Columbia,2288,8/1/2022,8/5/2022
+Brandon,FL,Florida,Waterbury,CT,Connecticut,1644,8/1/2022,8/5/2022
+Burlington,VT,Vermont,Waterloo,IA,Iowa,2024,8/1/2022,8/5/2022
+Pottstown,PA,Pennsylvania,West Jordan,UT,Utah,2441,8/1/2022,8/5/2022
+Waterloo,IA,Iowa,West Valley City,UT,Utah,963,8/1/2022,8/5/2022
+West Jordan,UT,Utah,Westminster,CO,Colorado,2220,8/1/2022,8/5/2022
+Coeur d'Alene,ID,Idaho,Wichita,KS,Kansas,546,8/1/2022,8/5/2022
+Westminster,CO,Colorado,Wilmington,NC,North Carolina,2264,8/1/2022,8/5/2022
+St. George,UT,Utah,Winston-Salem,NC,North Carolina,878,8/1/2022,8/5/2022
+Gilroy,CA,California,Winter Haven,FL,Florida,1497,8/1/2022,8/5/2022
+Carlsbad,CA,California,Worcester,MA,Massachusetts,1417,8/1/2022,8/5/2022
+El Monte,CA,California,Yakima,WA,Washington,650,8/1/2022,8/5/2022
+North Charleston,SC,South Carolina,Yonkers,NY,New York,1474,8/1/2022,8/5/2022
+Chico,CA,California,York,PA,Pennsylvania,622,8/1/2022,8/5/2022
+Temecula,CA,California,Youngstown,OH,Ohio,2112,8/1/2022,8/5/2022
+Costa Mesa,CA,California,Yuba City,CA,California,880,8/1/2022,8/5/2022
+Utica,NY,New York,Yuma,AZ,Arizona,722,8/1/2022,8/5/2022
